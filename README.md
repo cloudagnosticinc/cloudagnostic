@@ -14,6 +14,7 @@ S3: **s3://[cloudagnosticconnectioninfo]/bucket/path**
 
 DynamoDB: **dynamodb://[cloudagnosticconnectioninfo]/table/[id]/**
 
+
 #OutputFormat:
 
 Stream
