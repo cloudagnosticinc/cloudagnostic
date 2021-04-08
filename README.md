@@ -15,7 +15,7 @@ S3: **s3://[cloudagnosticconnectioninfo]/bucket/path**
 DynamoDB: **dynamodb://[cloudagnosticconnectioninfo]/table/[id]/**
 
 
-##OutputFormat:
+## OutputFormat:
 
 Stream
   Return stream to application for read/write/overwrite
