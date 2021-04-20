@@ -1,3 +1,11 @@
-function Blob() {
-    console.log('Testing');
+class Blob {
+    constructor() {
+
+    }
+
+    get() {
+        console.log('Get Function')
+    }
 }
+
+module.exports = Blob
