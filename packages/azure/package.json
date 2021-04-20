@@ -1,0 +1,29 @@
+{
+  "name": "@cloudagnostic/azure",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Devin Zimmerman <dzimmerman@qw-corp.com>",
+  "homepage": "https://github.com/cloudagnosticinc/cloudagnostic/tree/main/packages/azure#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudagnosticinc/cloudagnostic.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/cloudagnosticinc/cloudagnostic/issues"
+  }
+}
