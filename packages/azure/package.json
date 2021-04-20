@@ -22,10 +22,16 @@
     "url": "git+https://github.com/cloudagnosticinc/cloudagnostic.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "jest --watch"
   },
   "bugs": {
     "url": "https://github.com/cloudagnosticinc/cloudagnostic/issues"
   },
-  "gitHead": "78c1cd3d4c3d0594532e52131c3633d4243db8d0"
+  "gitHead": "78c1cd3d4c3d0594532e52131c3633d4243db8d0",
+  "dependencies": {
+    "@azure/storage-blob": "^12.5.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
