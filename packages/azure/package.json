@@ -14,7 +14,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,6 @@
   },
   "bugs": {
     "url": "https://github.com/cloudagnosticinc/cloudagnostic/issues"
-  }
+  },
+  "gitHead": "78c1cd3d4c3d0594532e52131c3633d4243db8d0"
 }
